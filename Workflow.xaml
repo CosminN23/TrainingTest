@@ -60,7 +60,7 @@
         <OutArgument x:TypeArguments="x:String">[ceva]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String">ce</InArgument>
+        <InArgument x:TypeArguments="x:String">c</InArgument>
       </Assign.Value>
     </Assign>
   </Sequence>
