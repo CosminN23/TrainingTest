@@ -13,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.10.3.0",
-  "projectVersion": "1.2.100363323",
+  "projectVersion": "1.2.100443349",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -46,6 +46,22 @@
         "testCaseId": "7bccff9a-5636-4bc7-8ff5-db01dbffdb88",
         "dataVariationFilePath": ".variations\\QCxKU6KDKASdfMoa-Data_Sheet1.json",
         "fileName": "TestCases\\TestCase_Sum.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "8930e68f-746b-4822-ba7c-49b970abc846",
+        "fileName": "TestCases\\TestCase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "b7679723-ac76-4788-bcc0-86ce9c3a45a1",
+        "dataVariationFilePath": ".variations\\ActivtyCoverageInput_Sheet1.json",
+        "fileName": "TestCases\\ActivtyCoverageTestCase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "2d69dedd-39f6-42c0-96ea-3dabcbca9fa9",
+        "fileName": "TestCases\\TestCaseMock.xaml"
       }
     ],
     "modernBehavior": true

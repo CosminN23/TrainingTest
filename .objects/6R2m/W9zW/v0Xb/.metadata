@@ -1,0 +1,15 @@
+﻿{
+  "Id": "v0XbHgz4zUOohvAELWJdGA",
+  "Reference": "yt7lsEkftU-vFhENOpEEUw/v0XbHgz4zUOohvAELWJdGA",
+  "ParentRef": "yt7lsEkftU-vFhENOpEEUw/W9zWW4ibZ06FNYYgdXbG9w",
+  "Name": "ManiScreen",
+  "Type": "Screen",
+  "Created": "2022-03-08T10:31:28.7681061Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-08T10:33:04.9532665Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

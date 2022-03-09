@@ -1,0 +1,13 @@
+﻿{
+  "Id": "CBtVViFks0u8f7LQ66cCAg",
+  "Reference": "yt7lsEkftU-vFhENOpEEUw/CBtVViFks0u8f7LQ66cCAg",
+  "ParentRef": "yt7lsEkftU-vFhENOpEEUw/v0XbHgz4zUOohvAELWJdGA",
+  "Name": "File",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-03-08T10:33:05.4173619Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-08T10:33:05.4173619Z"
+}
