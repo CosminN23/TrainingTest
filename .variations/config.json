@@ -1,10 +1,6 @@
 {
   "dataVariationFileInfo": [
     {
-      "filePath": ".variations\\QCxKU6KDKASdfMoa-Data_Sheet1.json",
-      "dataVariationType": "File"
-    },
-    {
       "filePath": ".variations\\ActivtyCoverageInput_Sheet1.json",
       "dataVariationType": "File"
     }
