@@ -29,7 +29,7 @@ steps:
 - task: UiPathDeploy@2
   inputs:
     orchestratorConnection: 'Test Tenant'
-    packagesPath: '$(Build.SourcesDirectory)'
+    packagesPath: '$(Build.ArtifactStagingDirectory)\Output'
     folderName: 'CosmintrainingCICD'
     entryPoints: 'Main.xaml'
 
